@@ -1,16 +1,8 @@
-# card_flutter_app
+# Contact Card (Akard)
 
-A new Flutter application.
+Akard is a personal business card (Flutter app). Whenever someone asks about my contact details or my business card I can get them to download my business card as an app.
 
-## Getting Started
+## Screenshot
+![](https://raw.githubusercontent.com/anilkaundal/contact-card-flutter/master/images/screenshot.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
